@@ -7,9 +7,9 @@ public class Challenge {
         double balance = new Random().nextDouble(10000.0);
 
         System.out.println("**************************************");
-        System.out.println(String.format("Name: %s", name));
-        System.out.println(String.format("Account type: %s", accountType));
-        System.out.println(String.format("Total account balance: $ %.2f", balance));
+        System.out.printf("Name: %s%n", name);
+        System.out.printf("Account type: %s%n", accountType);
+        System.out.printf("Total account balance: $ %.2f%n", balance);
         System.out.println("**************************************");
     }
 }
