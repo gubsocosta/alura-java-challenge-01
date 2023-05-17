@@ -4,8 +4,8 @@ O projeto consiste na criacao de um banco virtual.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Virtual Bank**
-| :label: Tecnologias | java, bash
+| :sparkles: Nome        | **Virtual Bank**|
+| :label: Tecnologias | java, bash|
 
 ## Detalhes do projeto
 
